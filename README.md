@@ -1,1 +1,2 @@
-ini adalah file project pertama saya.
+ini adalah file project pertama saya. 
+nama saya farros
